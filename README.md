@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I’m *Shaik Sumaiah, a passionate **Full Stack Developer* with *1 year 6 months of experience* at *Trangla Innovations Pvt. Ltd*.  
+Hi! I’m *Shaik Sumaiah, a passionate **Full Stack Developer* with *2+ years of experience* at *Trangla Innovations Pvt. Ltd*.  
 I specialize in building *real-world business applications* using *React.js, **Next.js, and **Python FastAPI*, delivering modern, secure, and responsive solutions.
 
 > 💬 “Turning complex problems into seamless digital experiences with clean code and modern design.”
@@ -57,7 +57,7 @@ Strong collaborator in *Agile teams*, delivering measurable business results and
 ## 🏢 Professional Experience
 
 ### 👨‍💻 *Full Stack Developer | Trangla Innovations Pvt. Ltd*  
-📅 June 2024 – Present (1 year 6 months)  
+📅 Feb 2024 – Present (2+ years)  
 
 - Developed *3+ full-stack client applications* using *React.js/Next.js* frontends and *Python FastAPI* backends.  
 - Built RESTful APIs with *authentication, **data validation, and **error handling*.  
